@@ -1,4 +1,4 @@
-import Dashboard from '@/admin/pages/dashboard'
+import Dashboard from '@/admin/pages/Dashboard'
 
 const AdminRoutes = [
  {
